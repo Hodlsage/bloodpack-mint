@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  box-sizing: border-box;
+  width: 400px;
+  font-size: 18px;
+  margin-top: 8px;
+  padding: 4px 8px;
+}
+
+button {
+  margin-top: 8px;
+  width: 400px;
+  font-size: 18px;
+  padding: 4px 8px;
+}
+
+.TradeStation--price-container {
+  border: 1px solid grey;
+  border-radius: 4px;
+  padding: 8px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.container {
+  margin: 16px auto;
+  width: 400px;
+}
